@@ -11,4 +11,4 @@ As a first step, the app will only be available on Android.
 
 # The server
 
-This is the code base of the server and the Web app
+This is the code base of the server and the Web app. It's built on top of the Play Framework.
